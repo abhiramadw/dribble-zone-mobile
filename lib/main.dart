@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:dribble_zone/menu.dart';
+import 'package:dribble_zone/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
